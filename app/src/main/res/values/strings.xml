@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NFCAlarm</string>
+    <string name="title_stopwatch">Stopwatch</string>
+    <string name="title_timer">Timer</string>
+    <string name="title_alarm">Alarm</string>
+    <string name="title_nfc">NFC</string>
+
+    <string name="button_stopwatch_start">Start</string>
+    <string name="button_stopwatch_stop">Stop</string>
+    <string name="button_stopwatch_reset">Reset</string>
+
+</resources>
